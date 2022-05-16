@@ -3,6 +3,10 @@
 ## 概要
 Microsoft.Extensions.DependencyInjection のサンプルプログラムです。
 
+## 参考情報
+[.NET での依存関係の挿入](https://docs.microsoft.com/ja-jp/dotnet/core/extensions/dependency-injection)  
+[dotnet Microsoft.Extensions.DependencyInjection](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection)
+
 ## 導入
 
 [nuget Microsoft.Extensions.DependencyInjection](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/)
